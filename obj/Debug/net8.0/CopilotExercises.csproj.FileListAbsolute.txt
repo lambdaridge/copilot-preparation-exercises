@@ -1,0 +1,14 @@
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\CopilotExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\CopilotExercises.AssemblyInfoInputs.cache
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\CopilotExercises.AssemblyInfo.cs
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\CopilotExercises.csproj.CoreCompileInputs.cache
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\bin\Debug\net8.0\CopilotExercises.exe
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\bin\Debug\net8.0\CopilotExercises.deps.json
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\bin\Debug\net8.0\CopilotExercises.runtimeconfig.json
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\bin\Debug\net8.0\CopilotExercises.dll
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\bin\Debug\net8.0\CopilotExercises.pdb
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\CopilotExercises.dll
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\refint\CopilotExercises.dll
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\CopilotExercises.pdb
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\CopilotExercises.genruntimeconfig.cache
+C:\Users\larsh\LambdaRidge\LambdaRidge ApS - Documents\Customers\33259204 DAXIT ApS\AI Training Program\03_Project-Execution\Preparation\copilot-exercises\obj\Debug\net8.0\ref\CopilotExercises.dll
