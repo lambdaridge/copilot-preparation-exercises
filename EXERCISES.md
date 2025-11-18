@@ -33,8 +33,9 @@ This folder contains a simple C# console application designed to help you practi
 **In VS Code:**
 1. Open VS Code
 2. File → Open Folder
-3. Open the integrated terminal
-4. Run `dotnet build` - you'll see build errors until Exercise 1 is complete
+3. Navigate to this folder and open it
+4. Open the integrated terminal
+5. Run `dotnet build` - you'll see build errors until Exercise 1 is complete
 
 ---
 
